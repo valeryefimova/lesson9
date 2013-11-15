@@ -1,6 +1,6 @@
 Материалы девятой лекции
 =======
-
+http://yadi.sk/d/1nSbKaCWCj6Qr
 
 Домашнее задание
 =======
@@ -30,3 +30,4 @@ https://docs.google.com/spreadsheet/ccc?key=0AkYNnR0IM6SpdEJPcWRpUGNKYzRCUExnamJ
 - http://en.previmeteo.com/professionals/google-weather-api.php, тоже требует регистрацию
 - https://developer.yahoo.com/weather/ - Yahoo Weather API
 - http://yadi.sk/d/3e-Y7e8T0izA7 - набор иконок для погоды
+- http://developer.android.com/design/index.html - android style guide
